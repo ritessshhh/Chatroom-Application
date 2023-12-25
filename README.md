@@ -1,5 +1,3 @@
-# Writing an explanation of the chatroom application in Markdown format
-
 # Chatroom Application in C++
 
 This document explains the functioning of a simple chatroom application implemented in C++ using socket programming. The application consists of two parts: a server and a client.
